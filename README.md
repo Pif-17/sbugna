@@ -1,0 +1,1 @@
+[![Coverage Status](https://coveralls.io/repos/github/Pif-17/sbugna/badge.svg?branch=master)](https://coveralls.io/github/Pif-17/sbugna?branch=master)
